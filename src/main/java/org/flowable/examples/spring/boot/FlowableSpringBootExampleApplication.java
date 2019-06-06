@@ -31,6 +31,7 @@ public class FlowableSpringBootExampleApplication {
 	}
 	
 	@Bean
+	//May need to use a @Configuration or something other than bean? This just accesses flowable convenience classes to print them on the console. 
     public CommandLineRunner init(final RepositoryService repositoryService,
                                   final RuntimeService runtimeService,
                                   final TaskService taskService) {

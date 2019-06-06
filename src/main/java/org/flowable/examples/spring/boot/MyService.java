@@ -20,7 +20,7 @@ public class MyService {
 
     @Transactional
     public void startProcess() {
-        runtimeService.startProcessInstanceByKey("oneTaskProcess");
+        runtimeService.startProcessInstanceByKey("vacationRequest");
     }
     
     
