@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: org.flowable.examples.spring.boot.FlowableSpringBootExampleApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 8.436 s - in org.flowable.examples.spring.boot.FlowableSpringBootExampleApplicationTests
